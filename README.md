@@ -8,7 +8,7 @@
 <a href="https://www.instagram.com/hritik_saroch/"><img src="https://img.icons8.com/color/48/000000/instagram-new.png"/></a>
 
 # Welcome <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-<h5>I'm Hritik Kumar, CSE Undergraduate from NIT Jalandhar. I'm an avid programmer, passionate about code, design, startups and Technology. Loves exploring new technology, algorithm.</h5>
+<h5>I'm Hritik, CSE Undergraduate from NIT Jalandhar. I'm an avid programmer, passionate about code, design, startups and Technology. Loves exploring new technology, algorithm.</h5>
 <br></br>
 <p  align="center"><img src="https://i.pinimg.com/originals/8a/2e/4c/8a2e4c79a1b9c983dc6bf8d6cbada43a.gif" alt="Coder GIF" width="800" height="500">
 <br></br>
