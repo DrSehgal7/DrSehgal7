@@ -5,7 +5,7 @@
 <a href="https://github.com/DrSehgal7"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
 
 # Welcome <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-<h5>Hey there! I'm Hritik—a curious problem-solver who loves diving into design, startups, finance, and all things tech. I get excited about tackling new challenges, exploring cool ideas, and building stuff that makes a difference. When I’m not geeking out over tech, you’ll probably find me sipping coffee and brainstorming the next big thing!</h5>
+<h5> I'm Hritik a curious problem-solver who loves diving into design, startups, finance, and all things tech. I get excited about tackling new challenges, exploring cool ideas, and building stuff that makes a difference. When I’m not geeking out over tech, you’ll probably find me sipping coffee and brainstorming the next big thing!</h5>
 <br></br>
 <p  align="center"><img src="https://i.pinimg.com/originals/8a/2e/4c/8a2e4c79a1b9c983dc6bf8d6cbada43a.gif" alt="Coder GIF" width="800" height="500">
 <br></br>
@@ -38,7 +38,7 @@
 ## 🛠️ Skills and Technologies
 
 - **Languages**: Python, Typescript, Java, JavaScript, C++
-- **Frameworks & Tools**: React, Node.js, Express, Docker, Kubernetes, Next.js
+- **Frameworks & Tools**: React, Node.js, Express, Django, Flask, Docker, Kubernetes, Next.js
 - **Cloud Platforms**: AWS
  
 
