@@ -15,17 +15,17 @@
 ### 💼 Professional Experience
 
 - **Senior Software Engineer**
-  Creating user friendly platform for small-mid size pharmacies.
+  - Creating user friendly platform for small-mid size pharmacies.
 
 
 - **Software Engineer** at **CoinSwitch Kuber**  
-  Contributed to scaling CoinSwitch pro's platform to 20M+ users and ₹21,000 Cr+ in transactions.  
+  - Contributed to scaling CoinSwitch pro's platform to 20M+ users and ₹21,000 Cr+ in transactions.  
   - Reduced onboarding time for different exchanges by 97.79%.  
   - Developed real-time systems for asset visualization and crypto listings, boosting engagement and trading volume.  
   - Ensured platform stability with >99.9% SLA adherence.
 
 - **Software Engineer** at **Traveloka**  
-  Part of the Search Platform Team, delivering high-impact solutions like automated stress testing and optimized search filters.  
+  - Part of the Search Platform Team, delivering high-impact solutions like automated stress testing and optimized search filters.  
   - Achieved 40% reduction in AWS costs during peak usage.  
   - Ensured data integrity with a validation layer, reducing error rates by 95%.
 
