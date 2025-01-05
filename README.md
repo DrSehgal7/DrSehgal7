@@ -45,10 +45,10 @@
 ## 💬 Let's Connect <img src="https://media.giphy.com/media/Wn74RUT0vjnoU98Hnt/giphy.gif" width="50"> 
 Got an idea, project, or just want to say hi? Let's chat! I'm always open to exciting opportunities, brainstorming sessions, or just a good old tech talk. Reach out to me through any of the links below, and let’s make something awesome together. 🚀
 
-##
  <a href="mailto:kumarhritik@example.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email"/></a> <a href="https://www.linkedin.com/in/kumarhritik/"><img src="https://img.icons8.com/color/48/000000/linkedin-circled.png" alt="LinkedIn"/></a> 
  
 
+ ##
  
 <img src="https://i.pinimg.com/originals/ef/16/e4/ef16e4e68b0d3cb81e6bb8a8c3258d7e.gif" alt="Coder GIF" align="right" width="300" height="200">
 
