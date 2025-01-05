@@ -3,9 +3,6 @@
 
 <a href="https://www.linkedin.com/in/kumarhritik/"><<img src="https://img.icons8.com/color/48/000000/linkedin-circled.png"/></a>
 <a href="https://github.com/DrSehgal7"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
-<a href="https://www.facebook.com/profile.php?id=100012260560586"><img src="https://img.icons8.com/color/48/000000/facebook-circled.png"/></a>
-<a href="mailto:sarojhritik@gmail.com"><img src="https://img.icons8.com/color/48/000000/google-plus--v1.png"/></a>
-<a href="https://www.instagram.com/hritik_saroch/"><img src="https://img.icons8.com/color/48/000000/instagram-new.png"/></a>
 
 # Welcome <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 <h5>I'm Hritik, CSE Undergraduate from NIT Jalandhar. I'm an avid programmer, passionate about code, design, startups and Technology. Loves exploring new technology, algorithm.</h5>
