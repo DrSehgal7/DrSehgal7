@@ -11,10 +11,6 @@
 <br></br>
 <br></br>
 
-💬 Let's Connect <img src="https://media.giphy.com/media/Wn74RUT0vjnoU98Hnt/giphy.gif" width="50"> <br></br>
-Got an idea, project, or just want to say hi? Let's chat! I'm always open to exciting opportunities, brainstorming sessions, or just a good old tech talk. Reach out to me through any of the links below, and let’s make something awesome together. 🚀
-
- <a href="mailto:kumarhritik@example.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email"/></a> <a href="https://www.linkedin.com/in/kumarhritik/"><img src="https://img.icons8.com/color/48/000000/linkedin-circled.png" alt="LinkedIn"/></a> 
 
 ### 💼 Professional Experience
 
@@ -44,6 +40,12 @@ Got an idea, project, or just want to say hi? Let's chat! I'm always open to exc
 - **Languages**: Python, Typescript, Java, JavaScript, C++
 - **Frameworks & Tools**: React, Node.js, Express, Django, Flask, Docker, Kubernetes, Next.js
 - **Cloud Platforms**: AWS
+
+<br></br>
+💬 Let's Connect <img src="https://media.giphy.com/media/Wn74RUT0vjnoU98Hnt/giphy.gif" width="50"> 
+Got an idea, project, or just want to say hi? Let's chat! I'm always open to exciting opportunities, brainstorming sessions, or just a good old tech talk. Reach out to me through any of the links below, and let’s make something awesome together. 🚀
+
+ <a href="mailto:kumarhritik@example.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email"/></a> <a href="https://www.linkedin.com/in/kumarhritik/"><img src="https://img.icons8.com/color/48/000000/linkedin-circled.png" alt="LinkedIn"/></a> 
  
 
  
