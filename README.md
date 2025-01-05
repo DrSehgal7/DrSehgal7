@@ -10,7 +10,11 @@
 <p  align="center"><img src="https://i.pinimg.com/originals/8a/2e/4c/8a2e4c79a1b9c983dc6bf8d6cbada43a.gif" alt="Coder GIF" width="800" height="500">
 <br></br>
 <br></br>
-  
+
+💬 Let's Connect <img src="https://media.giphy.com/media/Wn74RUT0vjnoU98Hnt/giphy.gif" width="50">
+Got an idea, project, or just want to say hi? Let's chat! I'm always open to exciting opportunities, brainstorming sessions, or just a good old tech talk. Reach out to me through any of the links below, and let’s make something awesome together. 🚀
+
+<p align="center"> <a href="mailto:kumarhritik@example.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email"/></a> <a href="https://www.linkedin.com/in/kumarhritik/"><img src="https://img.icons8.com/color/48/000000/linkedin-circled.png" alt="LinkedIn"/></a> 
 
 ### 💼 Professional Experience
 
